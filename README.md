@@ -1,2 +1,2 @@
 # SoftUni
-My SoftUni repository :)
+My SoftUni GitHub :)
